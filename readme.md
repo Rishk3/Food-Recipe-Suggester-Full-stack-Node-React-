@@ -37,4 +37,10 @@ This is a full-stack application where users can find dishes based on the ingred
    npm start
    This will run the frontend server on port 3000. Open your browser and go to http://localhost:3000 to access the app.
 
+### Some of the SS of Projects are below
+![Screenshot 2024-12-03 060116](https://github.com/user-attachments/assets/67e7b60b-cded-4372-9c7d-6e6c18a759c9)
+![Screenshot 2024-12-03 060145](https://github.com/user-attachments/assets/84f7e27e-ea3e-464f-834f-3ae77aad69ec)
+![Screenshot 2024-12-03 060229](https://github.com/user-attachments/assets/a6e1b62c-cb90-4226-aee8-7b59d22f2099)
+![Screenshot 2024-12-03 060640](https://github.com/user-attachments/assets/920f9d73-aec0-4419-9206-67eb39477940)
+
 -Rishk3
