@@ -33,7 +33,9 @@ This is a full-stack application where users can find dishes based on the ingred
 
 1. Navigate to the frontend directory and install dependencies:
    npm install
-2. Start the frontend development server:
+2. Setup Env file add REACT_APP_API_BASE_URL=http://localhost:8000/api
+   inside .env file
+3. Start the frontend development server:
    npm start
    This will run the frontend server on port 3000. Open your browser and go to http://localhost:3000 to access the app.
 
